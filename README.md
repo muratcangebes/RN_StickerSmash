@@ -1,5 +1,5 @@
 # RN_StickerSmash
- React Native ile fotoğrafların üzerine emoji ekleme ve düzenleme.
+ React Native ile fotoğrafların üzerine emoji ekleme ve düzenleme yaptım.Yaptığınız işlem bittiğinde 
 
 
 
